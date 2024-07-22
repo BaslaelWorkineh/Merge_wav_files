@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name=',merge_audio_files',
+    name='merge_audio_files',
     version='0.1.0',
     description='A simple library for merging WAV audio files',
     author='Baslael Workineh',
